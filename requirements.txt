@@ -1,0 +1,11 @@
+asyncio
+wave
+google-cloud-speech
+google-cloud-texttospeech
+openai
+ChatGPT-lite
+pyaudio
+pocketsphinx
+pydub
+SpeechRecognition
+gtts
